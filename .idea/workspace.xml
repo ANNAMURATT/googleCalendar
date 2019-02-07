@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="253ae642-e51a-4e8e-887e-d8ec2ad2a5fa" name="Default Changelist" comment="" />
+    <list default="true" id="253ae642-e51a-4e8e-887e-d8ec2ad2a5fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/googleCalendar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anna/pages/LoginInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anna/utilities/ConfgurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anna/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GoogleCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anna/pages/GoogleCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomePage1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anna/pages/HomePage1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Maintest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Nau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anna/pages/Nau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SleepAndImplicitWaitExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WellsFargo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GoogleCalendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Nau.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,26 +73,81 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="351628561">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="feature" value="2" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="6" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Cucumber" value="1" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="feature" value="266" />
+          <entry key="java" value="670" />
+          <entry key="properties" value="41" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="266" />
+          <entry key="JAVA" value="670" />
+          <entry key="Properties" value="41" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/GoogleCalendar.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/pages/GoogleCalendar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configuration.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Maintest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/runners/CukesRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="46" />
+            <state relative-caret-position="153">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,10 +156,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Nau.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/step_definitions/LoginPageStepDefinitions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+            <state relative-caret-position="375">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/utilities/ConfgurationReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="84" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,37 +182,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SleepAndImplicitWaitExample.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/pages/Nau.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-34">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/HomePage1.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/pages/LoginInPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/googleCalendar.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/pages/HomePage1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -138,6 +236,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -149,13 +250,22 @@
         <option value="$PROJECT_DIR$/src/test/java/com/anna/tests/Calendar.java" />
         <option value="$PROJECT_DIR$/src/test/java/Driver.java" />
         <option value="$PROJECT_DIR$/src/test/java/WellsFargo.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Google.java" />
         <option value="$PROJECT_DIR$/src/test/java/Nau.java" />
         <option value="$PROJECT_DIR$/src/test/java/GoogleCalendar.java" />
         <option value="$PROJECT_DIR$/src/test/java/HomePage1.java" />
         <option value="$PROJECT_DIR$/src/test/java/SleepAndImplicitWaitExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/Maintest.java" />
+        <option value="$PROJECT_DIR$/googlecalendaracceptancetests.iml" />
+        <option value="$PROJECT_DIR$/configuration.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/anna/runners/CukesRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/anna/pages/HomePage1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/anna/pages/Nau.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/anna/utilities/ConfgurationReader.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/anna/step_definitions/LoginPageStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/anna/pages/LoginInPage.java" />
       </list>
     </option>
   </component>
@@ -177,8 +287,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-26" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="947" />
+    <option name="y" value="3" />
     <option name="width" value="987" />
     <option name="height" value="1020" />
   </component>
@@ -187,7 +298,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,23 +309,72 @@
             <path>
               <item name="googleCalendar" type="b2602c69:ProjectViewProjectNode" />
               <item name="googleCalendar" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="googleCalendar" type="b2602c69:ProjectViewProjectNode" />
               <item name="googleCalendar" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="googleCalendar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="googleCalendar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="googleCalendar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="googleCalendar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="anna" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="googleCalendar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="googleCalendar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="anna" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="googleCalendar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="googleCalendar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="anna" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="googleCalendar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="googleCalendar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="googleCalendar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="googleCalendar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549253333197" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549495447585" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -231,7 +391,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Maintest">
+  <component name="RunManager" selected="JUnit.CukesRunner">
     <configuration name="Maintest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Maintest" />
       <module name="googleCalendar" />
@@ -239,21 +399,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nau" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nau" />
+    <configuration name="Scenario: login as a student" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="com.anna.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="googleCalendar" />
+      <option name="NAME_FILTER" value="^login as a student$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter --name &quot;^login as a student$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: login as a student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleCalendar.test (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="googleCalendar" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GoogleCalendar" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anna.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anna.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.anna.runners.CukesRunner" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -261,7 +435,7 @@
     <configuration name="GoogleCalendar.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="googleCalendar" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GoogleCalendar" />
+      <option name="MAIN_CLASS_NAME" value="com.anna.pages.GoogleCalendar" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -273,7 +447,7 @@
     <configuration name="Nau.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="googleCalendar" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Nau" />
+      <option name="MAIN_CLASS_NAME" value="com.anna.pages.Nau" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -286,16 +460,16 @@
       <item itemvalue="TestNG.GoogleCalendar.test" />
       <item itemvalue="TestNG.Nau.test" />
       <item itemvalue="Application.Maintest" />
-      <item itemvalue="Application.Nau" />
-      <item itemvalue="TestNG.GoogleCalendar.test (1)" />
+      <item itemvalue="JUnit.CukesRunner" />
+      <item itemvalue="Cucumber java.Scenario: login as a student" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="Cucumber java.Scenario: login as a student" />
         <item itemvalue="Application.Maintest" />
         <item itemvalue="TestNG.GoogleCalendar.test" />
         <item itemvalue="TestNG.Nau.test" />
-        <item itemvalue="TestNG.GoogleCalendar.test (1)" />
-        <item itemvalue="Application.Nau" />
       </list>
     </recent_temporary>
   </component>
@@ -313,41 +487,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GoogleCalendar_test - 2019.01.29 at 07h 53m 03s.xml">
-      <configuration name="GoogleCalendar.test" configurationId="TestNG" />
+    <history-entry file="Scenario__login_as_a_student - 2019.02.06 at 16h 22m 57s.xml">
+      <configuration name="Scenario: login as a student" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="GoogleCalendar_test - 2019.01.29 at 07h 55m 26s.xml">
-      <configuration name="GoogleCalendar.test" configurationId="TestNG" />
+    <history-entry file="CukesRunner - 2019.02.06 at 16h 34m 48s.xml">
+      <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleCalendar_test - 2019.01.29 at 08h 00m 28s.xml">
-      <configuration name="GoogleCalendar.test" configurationId="TestNG" />
+    <history-entry file="CukesRunner - 2019.02.06 at 16h 43m 47s.xml">
+      <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleCalendar_test - 2019.01.29 at 08h 06m 43s.xml">
-      <configuration name="GoogleCalendar.test" configurationId="TestNG" />
+    <history-entry file="CukesRunner - 2019.02.06 at 16h 50m 05s.xml">
+      <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleCalendar_test - 2019.01.29 at 08h 12m 12s.xml">
-      <configuration name="GoogleCalendar.test" configurationId="TestNG" />
+    <history-entry file="CukesRunner - 2019.02.06 at 16h 54m 30s.xml">
+      <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleCalendar_test_(1) - 2019.01.29 at 08h 19m 52s.xml">
-      <configuration name="GoogleCalendar.test (1)" configurationId="TestNG" />
+    <history-entry file="CukesRunner - 2019.02.06 at 17h 13m 15s.xml">
+      <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleCalendar_test - 2019.01.29 at 16h 08m 01s.xml">
-      <configuration name="GoogleCalendar.test" configurationId="TestNG" />
+    <history-entry file="CukesRunner - 2019.02.06 at 17h 14m 38s.xml">
+      <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleCalendar_test - 2019.02.03 at 20h 27m 30s.xml">
-      <configuration name="GoogleCalendar.test" configurationId="TestNG" />
+    <history-entry file="CukesRunner - 2019.02.06 at 17h 18m 42s.xml">
+      <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Nau_test - 2019.02.03 at 20h 29m 43s.xml">
-      <configuration name="Nau.test" configurationId="TestNG" />
+    <history-entry file="CukesRunner - 2019.02.06 at 17h 19m 45s.xml">
+      <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleCalendar_test - 2019.02.03 at 20h 32m 07s.xml">
-      <configuration name="GoogleCalendar.test" configurationId="TestNG" />
+    <history-entry file="CukesRunner - 2019.02.06 at 17h 24m 23s.xml">
+      <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-17" y="0" width="658" height="680" extended-state="1" />
+    <frame x="947" y="3" width="987" height="1020" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24080268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25674218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -356,15 +530,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40569395" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40473506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32919955" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -396,27 +570,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Google.java" />
+    <entry file="file://$PROJECT_DIR$/googlecalendaracceptancetests.iml" />
+    <entry file="file://$PROJECT_DIR$/configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="394">
+          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/GoogleCalendar.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/utilities/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Nau.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -426,37 +598,92 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/SleepAndImplicitWaitExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HomePage1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/googleCalendar.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Maintest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/pages/GoogleCalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/pages/Nau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/pages/HomePage1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/utilities/ConfgurationReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="84" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/step_definitions/LoginPageStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/pages/LoginInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/anna/runners/CukesRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
